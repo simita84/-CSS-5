@@ -1,0 +1,42 @@
+body{
+	 
+}
+table{
+ color: black;
+}
+.nav.nav-tabs li{
+	font-size: 20px;
+	color: white !important;
+}
+#main_image{
+	width: 350px;
+	height: 300px;
+	margin-top: 20px;
+}
+#mid_section{
+	margin:5px;
+	margin-bottom: 15px;
+	padding: 10px;
+}
+#mid_section p{
+	font-size: 14px;
+	margin-top:15px;
+	 
+}
+#surface{
+	margin:2px;
+}
+#surface .col-md-3 p{
+	padding:5px;
+}
+#surface .col-md-3{
+	margin-top: 15px;
+}
+#surface .col-md-3 img{
+	width: 250px;
+	height: 150px;
+}
+#last_section .well{
+	width: 530px;
+	margin: 20px;
+}
